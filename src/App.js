@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard"
 import './App.css'
 import searchIcon from './search.svg'
 
-const API_URL = "<your_api_key> "
+const API_URL = "<your_api_key> " //your OMDbAPI Key
 
 
 // const movie1 = {
@@ -32,7 +32,7 @@ const App = () => {
 
     // Use effects to load componets on Application load
     useEffect(() => {
-        searchMovies("Ironman")
+        searchMovies("Ironman") // Default search result on load
 
     },[]);
 
