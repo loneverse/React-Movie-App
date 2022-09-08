@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard"
 import './App.css'
 import searchIcon from './search.svg'
 
-const API_URL = "<your_api_key> " //your OMDbAPI Key
+const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=55c56d1f" //your OMDbAPI Key
 
 
 // const movie1 = {
