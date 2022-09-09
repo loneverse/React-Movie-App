@@ -1,12 +1,14 @@
-## Available Scripts
+### Installation
+Switch to the master branch
 
-In the project directory, you can run:
+`git clone <repo_git>`
 
-### `npm start`
+### Running the Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+`npm start`
+
+![Movie It](https://user-images.githubusercontent.com/47101888/189334110-b84ebd68-0319-4ce9-99a8-4a6aa855314c.png)
+![Movie_2](https://user-images.githubusercontent.com/47101888/189334130-9ce9835c-d398-4927-ba2a-3612e73cdaa1.png)
 
 
-### Deployment
 
