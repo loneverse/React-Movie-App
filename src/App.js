@@ -19,7 +19,7 @@ const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=55c56d1f" //your OMD
 
 
 const App = () => {
-    const [movies, setMovies] = useState([])
+    const [movies, setMovies] = useState([]) // useState hook
     const [searchTerm, setSearchTerm] = useState("")
  
     const searchMovies = async (title) => {
@@ -30,7 +30,7 @@ const App = () => {
 
     }
 
-    // Use effects to load componets on Application load
+    // useEffect hook to load componets on Application load
     useEffect(() => {
         searchMovies("Ironman") // Default search result on load
 
