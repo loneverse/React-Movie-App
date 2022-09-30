@@ -1,14 +1,22 @@
 ### Installation
-Switch to the master branch
 
-`git clone <repo_git>`
+`git clone https://github.com/loneverse/React-Movie-App.git`
 
 ### Running the Project
+#### After cloning the Repo You need to Run:
+
+`npm i react-scripts `
+- To set up react-scripts
+
+`rm -rf node_modules`
+- To remove the node modules
+
+`npm install`
+- download all deps 
 
 `npm start`
+- Start your project
 
-![Movie It](https://user-images.githubusercontent.com/47101888/189334110-b84ebd68-0319-4ce9-99a8-4a6aa855314c.png)
-![Movie_2](https://user-images.githubusercontent.com/47101888/189334130-9ce9835c-d398-4927-ba2a-3612e73cdaa1.png)
-
-
-
+![1](https://user-images.githubusercontent.com/47101888/193226438-f825fddd-90d5-4418-84cd-117d7f8dd08e.png)
+![3](https://user-images.githubusercontent.com/47101888/193227435-018fd122-356b-431f-a51c-7cf6ad83202a.png)
+![2](https://user-images.githubusercontent.com/47101888/193226480-4f2ebd74-99c3-428e-a0de-e40d4564baec.png)
